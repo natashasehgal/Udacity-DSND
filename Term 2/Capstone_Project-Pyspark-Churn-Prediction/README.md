@@ -14,5 +14,8 @@ Files Description
 2. SparkifyProject.ipynb - The project code is all here.
 3. workspace_utils.py - Used to stop Udacity environment from suspending. Code will work the same without with_active_session(): calls which were used before training.
 
+Accompanying Report
+URL : https://medium.com/@natashasehgal289/using-pyspark-to-predict-user-churn-rate-270df8a5843c
+
 Acknowledgements
 Udacity - For the capstone project, skeleton layout as well as the data.
